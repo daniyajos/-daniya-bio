@@ -93,7 +93,7 @@
                 <p>I hereby declare that the information stated above is true to the best of my knowledge.</p>
           
         </div>
-        
+        </body>
 
         
 

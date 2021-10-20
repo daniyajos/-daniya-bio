@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -92,14 +92,14 @@
                 <h2><u>Declaration</u></h2>
                 <p>I hereby declare that the information stated above is true to the best of my knowledge.</p>
           
-        </div>
-        </body>
+      
+       
 
         
 
     
     
     
- </html>
+ 
 
 
